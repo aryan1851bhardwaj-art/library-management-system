@@ -1,0 +1,6 @@
+# Compiled classes
+out/
+*.class
+
+# Saved library data (created at runtime by serialization)
+library_data.ser
